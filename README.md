@@ -93,6 +93,29 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+📻 Rádio favorita: [Rádio Evangelizar](https://www.evangelizar.org.br/radio) 🎶  
+
+[![Spotify](https://novatorem-tiagojr159.vercel.app/api/spotify)](https://open.spotify.com/user/seu_usuario_spotify)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Fullstack+Developer;Cristão+Católico+Conservador;Engenheiro+de+Sistemas)](https://git.io/typing-svg)
+### 🚀 Projetos em Destaque
+
+[![Projeto X](https://img.shields.io/badge/Ver-Projeto%20X-blue)](https://github.com/tiagojr159/projeto-x)
+![Imagem do Projeto](https://raw.githubusercontent.com/tiagojr159/projeto-x/main/screenshot.png)
+
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=tiagojr159&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Versículo do Dia](https://readme-verse.vercel.app/api/verse-of-the-day?translation=almeida)
+
+![Cristão Católico](https://img.shields.io/badge/Fé-Cristão%20Católico-green?style=for-the-badge&logo=godaddy)
+
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiagojr159&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiagojr159&theme=bear&hide_border=false)<br/>
