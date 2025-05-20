@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **tiagojr159/tiagojr159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +22,8 @@ Here are some ideas to get you started:
 <div align="center"> 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeffersonest&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeffersonest&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonest&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tiagojr159&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tiagojr159&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagojr159&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
