@@ -62,6 +62,84 @@ Here are some ideas to get you started:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 </div>
 
+
+
+
+# 💻 Tech Stack Completo
+
+### 💡 Arquitetura e Princípios:
+![SOLID](https://img.shields.io/badge/SOLID-Principles-%23black?style=for-the-badge&logo=solid&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Architecture-%232C8EBB?style=for-the-badge)
+
+---
+
+### 🔧 Ferramentas e Ambientes:
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+![PuTTY](https://img.shields.io/badge/Putty-Black?style=for-the-badge)
+![WinSCP](https://img.shields.io/badge/WinSCP-00B4F6?style=for-the-badge)
+![CRON](https://img.shields.io/badge/Cron%20Jobs-%23FFA500?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-%23480080.svg?style=for-the-badge&logo=subversion&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🗃️ Bancos de Dados:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🍰 Frameworks e CMS:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![Scriptcase](https://img.shields.io/badge/Scriptcase-1176C2?style=for-the-badge)
+![Zend Framework](https://img.shields.io/badge/Zend-88C300?style=for-the-badge)
+![Joomla](https://img.shields.io/badge/Joomla!-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
+
+---
+
+### 🧠 Linguagens Adicionais:
+![Delphi](https://img.shields.io/badge/Delphi-BF1D1D?style=for-the-badge)
+![XSLT](https://img.shields.io/badge/XSLT-FFB300?style=for-the-badge)
+![Flex](https://img.shields.io/badge/Apache%20Flex-162B4E?style=for-the-badge&logo=apache-flex&logoColor=white)
+
+---
+
+### 📄 Relatórios e PDF:
+![JasperReports](https://img.shields.io/badge/JasperReports-176B87?style=for-the-badge)
+![mPDF](https://img.shields.io/badge/mPDF-2C3E50?style=for-the-badge)
+
+---
+
+### 🔌 Comunicação e Integração:
+![SOAP](https://img.shields.io/badge/SOAP-1E88E5?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-ff6f00?style=for-the-badge&logo=api&logoColor=white)
+![MailSMTP](https://img.shields.io/badge/SMTP-Mail-0A66C2?style=for-the-badge)
+
+---
+
+### ✅ Testes e Qualidade:
+![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-%2300BCD4?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Methodologies-%23F47C00?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+### 📱 Mobile:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+
+
 <div align="center"> 
 
 # 📊 GitHub Stats:
