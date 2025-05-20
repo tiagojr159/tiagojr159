@@ -95,14 +95,12 @@ Here are some ideas to get you started:
 
 
 
-📻 Rádio favorita: [Rádio Evangelizar](https://www.evangelizar.org.br/radio) 🎶  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Fullstack+Developer;Cristão+Católico+Conservador;Engenheiro+de+Sistemas)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Fullstack+Developer;Cristão+Católico;Engenheiro+de+Sistemas;Desenvolvedor+Sênior;Analista+de+Sistemas)](https://git.io/typing-svg)
+
 ### 🚀 Projetos em Destaque
-
-
-
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=tiagojr159&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
